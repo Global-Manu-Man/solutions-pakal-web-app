@@ -122,3 +122,9 @@ body {
         opacity: 0; 
     }
 }
+
+/* Esilos Jero */
+
+.paquetes-row {
+    justify-content: center;
+}
